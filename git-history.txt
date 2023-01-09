@@ -1,0 +1,20 @@
+commit 5b07ddf8882938ebe17e57cb2d67dcb3dccf6260 (HEAD -> main, origin/main, origin/HEAD)
+Author: hamza-walker <hamzawalker@Hamzas-MacBook-Pro.local>
+Date:   Fri Dec 23 09:31:41 2022 +0100
+
+    <minor changes >
+
+commit d4585cc764951811c4e0377005040dc2d4c8d00d
+Author: hamza-walker <hamzawalker@Hamzas-MacBook-Pro.local>
+Date:   Fri Dec 23 09:25:14 2022 +0100
+
+    < i made a mistake in my last commit by adding the additional lines to the txt file in temp so i undid that and changed the txt file in the older Data along with changing its name >
+
+commit 3bdcc1612002cbf718eb6fbfe2e3bec9da98272c
+Author: hamza-walker <hamzawalker@Hamzas-MacBook-Pro.local>
+Date:   Fri Dec 23 09:12:52 2022 +0100
+
+    < .gitignore not working so i manually added an extra line with the specific word (temp) >
+
+commit b8a0943e0ae734b4927705427f512e5e48b8642b
+:
